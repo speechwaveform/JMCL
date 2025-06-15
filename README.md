@@ -11,6 +11,17 @@ git clone https://github.com/speechwaveform/JMCL.git
 cd JMCL
 ```
 
+##  Create alignments and trails preparation 
+
+```bash
+cd trails_preparation
+python prepare_alignments.py
+python trials_preparation_IV_OOV.py
+cd ../
+```
+
+##  Training
+
 Run the following script to train the NAWE
 
 ```
