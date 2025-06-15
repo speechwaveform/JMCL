@@ -1,9 +1,6 @@
 # Joint Multimodal Contrastive Learning for Robust Spoken Term Detection and Keyword Spotting
 
 
-# Joint Multimodal Contrastive Learning for Robust Spoken Term Detection and Keyword Spotting
-
-
 This repository contains resources, models, or scripts for training the models
 
 
